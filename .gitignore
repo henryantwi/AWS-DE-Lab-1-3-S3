@@ -1,0 +1,19 @@
+# Terraform state and local files
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+*.tfplan
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Excalidraw source (keep diagrams local; export PNG for README if you want it on GitHub)
+*.excalidraw
+
+# OS
+.DS_Store
+Thumbs.db

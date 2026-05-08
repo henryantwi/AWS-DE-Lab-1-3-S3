@@ -1,0 +1,10 @@
+# Copy this file to terraform.tfvars and adjust if needed.
+# The defaults already match the lab spec - no changes required for a standard run.
+
+aws_region   = "us-east-1"
+project      = "data-platform"
+lab          = "lab-1-3-s3"
+environment  = "dev"
+owner        = "data-engineering-team"
+purpose      = "data-lake-foundation"
+cost_center  = "de-platform"
