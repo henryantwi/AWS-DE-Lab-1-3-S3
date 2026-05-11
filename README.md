@@ -8,8 +8,6 @@ Terraform implementation of the production S3 data lake defined in `Lab_1_3.md`.
 
 ![S3 Data Lake Architecture](setup-architecture.png)
 
-Excalidraw sources are not tracked on GitHub (see `.gitignore` for `*.excalidraw`). Export a PNG named `setup-architecture.png` in this folder if you want the diagram above to render on GitHub, like Labs 1.1 and 1.2.
-
 ---
 
 ## Prerequisites
